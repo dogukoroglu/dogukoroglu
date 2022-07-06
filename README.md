@@ -3,6 +3,8 @@
 - 🌱 Şu anda C# öğreniyorum...
 - 💞️ I’m looking to collaborate on ...
 - ![Github stats 2](https://github-readme-stats.vercel.app/api?username=dogukoroglu&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukoroglu&layout=compact)](https://github.com/dogukoroglu/github-readme-stats)
+
 
 
 <!---
